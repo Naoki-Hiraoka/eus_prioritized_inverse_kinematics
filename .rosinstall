@@ -1,0 +1,10 @@
+- git:
+    local-name: eus_osqp
+    uri: https://github.com/Naoki-Hiraoka/eus_osqp.git
+- git:
+    local-name: eus_cddlib
+    uri: https://github.com/Naoki-Hiraoka/eus_cddlib.git
+# jsk_controlはmasterでなくてもよい
+- git:
+    local-name: jsk_control
+    uri: https://github.com/jsk-ros-pkg/jsk_control.git
